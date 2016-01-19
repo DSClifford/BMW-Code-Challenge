@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMW Test App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+        <string-array name="sorting_array">
+            <item>Distance</item>
+            <item>Name</item>
+            <item>Arrival Time</item>
+        </string-array>
+
+</resources>
